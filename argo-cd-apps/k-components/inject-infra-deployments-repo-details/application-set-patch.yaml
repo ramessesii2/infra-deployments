@@ -4,4 +4,4 @@
   value: https://github.com/ramessesii2/infra-deployments.git
 - op: replace
   path: /spec/template/spec/source/targetRevision
-  value: preview-RAMESSESII2/spray-proxy
+  value: preview-preview-RAMESSESII2/spray-proxy
