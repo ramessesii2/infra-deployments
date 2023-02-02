@@ -5,7 +5,7 @@ resources:
   - ../../base/host/optional/infra-deployments/dev-sso
   - ../../base/member
   - ../../base/all-clusters
-patchesStrategicMerge:
-  - delete-applications.yaml
+# patchesStrategicMerge:
+#   - delete-applications.yaml
 components:
   - ../../k-components/all-in-one
